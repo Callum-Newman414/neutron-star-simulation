@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+plt.rcParams.update({'font.size':8})
 import numpy as np
 from numpy import pi
 from numpy import log10
